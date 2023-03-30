@@ -5,6 +5,8 @@
 ---
 I am using `13-inch, 2020, Four Thunderbolt 3 ports MacBook Pro` with `2.3 GHz Quad-Core Intel Core i7` and `16 GB 3733 MHz LPDDR4X`. Currently running `Ventura 13.2.1` OS.
 
+The whole installation will take about 160GB memory and end up with about 90GB. 
+
 ---
 
 1. Get the ubuntu docker
