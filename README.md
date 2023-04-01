@@ -37,7 +37,7 @@ docker run -e DISPLAY=host.docker.internal:0 -it -v /sys/devices:/sys/devices:ro
 ```
 
 5. Install all possible vivado dependencies.
-This can be down two ways, 1. Give permission to `init_docker.sh` file under this repo or 2. Copy the instruction in `init_docker.sh` and run it line by line.
+This can be done in two ways, 1. Give permission to `init_docker.sh` file under this repo or 2. Copy the instruction in `init_docker.sh` and run it line by line.
 
 ---
 Note: Complete both under university WiFi would take a little while.
