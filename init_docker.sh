@@ -14,7 +14,7 @@ apt-get clean && apt-get update
 apt-get install locales
 locale-gen en_US.UTF-8
 
-
+sudo apt-get install libxtst6:i386
 sudo apt-get install -y lib32stdc++6 libgtk2.0-0:i386 libfontconfig1:i386 libx11-6:i386 libxext6:i386 libxrender1:i386 libsm6:i386  xinetd  iproute2  gawk  gcc  net-tools  ncurses-dev  openssl  libssl-dev  flex  bison  xterm  autoconf  libtool  texinfo  zlib1g-dev  gcc-multilib  build-essential  automake  screen  putty  pax  g++  python3-pip  xz-utils  python3-git  python3-jinja2  python3-pexpect  debianutils  iputils-ping  libegl1-mesa  libsdl1.2-dev   python3  cpio  tftpd-hpa  gnupg  zlib1g:i386 haveged perl liberror-perl mtd-utils xtrans-dev libxcb-randr0-dev  libxcb-xtest0-dev  libxcb-xinerama0-dev  libxcb-shape0-dev  libxcb-xkb-dev openssh-server util-linux sysvinit-utils google-perftools
 sudo apt install --reinstall libgl1-mesa-dri
 
